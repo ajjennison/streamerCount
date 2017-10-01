@@ -1,0 +1,49 @@
+body {
+  background-color: #4ABCDA;
+  font-family: 'Open Sans', sans-serif;
+  font-weight:400;
+}
+
+div {
+  position:relative;
+  z-index: 2;
+}
+
+.wrapper {
+border-radius:3px;
+position:relative;
+margin:8% auto auto auto;
+width:450px;
+padding:40px 50px;
+background-color:#fff;
+}
+
+.streamer-input {
+  margin-top: 20px;
+}
+
+.update-followers {
+  margin-top: 10px;
+}
+
+#name-field {
+    width: 200px;
+    height: 30px;
+}
+
+.add-streamer {
+  height: 30px;
+}
+
+.footer {
+  width:450px;
+  text-align:center;
+  display:block;
+  margin:15px auto 30px auto;
+  font-size:0.8em;
+  color:#fff;
+}
+
+.update-confirm {
+  margin-top: 10px;
+}
